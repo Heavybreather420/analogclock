@@ -20,7 +20,7 @@ A sleek, modern analog clock built with pure HTML, CSS, and JavaScript — no li
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/analog-clock.git
+   git clone https://github.com/HeavyBreather420/analogclock.git
    ```
 2. Open `index.html` in your browser — no build step required.
 
